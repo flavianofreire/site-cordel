@@ -45,29 +45,27 @@ a:hover {
 }
 
 section {
-  margin: 5em 0 5em 0;
+  margin: 5em 0;
   padding-bottom: 6em;
 }
 
 p {
   font-size: 3vw;
-  margin-left: 2em;
   font-family: "Sriracha", cursive;
   line-height: 2;
   color: #000000;
+  margin-left: 1em;
 }
 
 .bg-traparente {
   display: inline-block;
   margin-top: 5em;
-  margin-left: 2em;
   background-color: #00000063;
-  text-align: left;
+  margin-left: 1em;
 }
 
 .bg-traparente > p {
   color: #ffffff;
-  margin-left: 0;
   padding: 5px;
 }
 
