@@ -57,14 +57,14 @@ p {
   margin-left: 1em;
 }
 
-.bg-traparente {
+.bg-trasparente {
   display: inline-block;
   margin-top: 5em;
   background-color: #00000063;
   margin-left: 1em;
 }
 
-.bg-traparente > p {
+.bg-trasparente > p {
   color: #ffffff;
   padding: 5px;
 }
